@@ -1,0 +1,12 @@
+:url: http://safesurf.altexsoft.pro/
+
+:default_password: 123456
+:email: ServiceProvider
+:email_password: 123456
+
+:default_folder_image: folder-225x145-69e06f919c0d31c57550cefa06d42755.png
+:default_service_image: service-225x145-6ef65a12ad6e8bd378b34936fdcb7ea1.png
+:default_info_image: info-225x145-fcc132fa805f05b9d9e13d81bdf8cbdf.png
+:default_link_image: link-225x145-aac80a2f9576827351ea7dd2b644eb71.png
+
+:driver: selenium

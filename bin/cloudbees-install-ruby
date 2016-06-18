@@ -1,0 +1,7 @@
+#!/bin/sh
+# Call with RUBY_VERSION set
+
+######### RUBY INSTALL
+curl -s -o use-ruby https://repository-cloudbees.forge.cloudbees.com/distributions/ci-addons/ruby/use-ruby
+. ./use-ruby
+

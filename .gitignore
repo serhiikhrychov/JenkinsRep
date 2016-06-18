@@ -1,0 +1,11 @@
+/spec/reports
+/.bundle
+/use-postgresql
+/use-ruby
+/vendor
+/pkg
+.idea/
+results.html
+cucumber.json
+screenshots/
+*.iml
