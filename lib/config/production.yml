@@ -1,8 +1,8 @@
 :url: 
 
 :default_password: 123456
-:email: ServiceProvider
-:email_password: 123456
+:email: 
+:email_password: 
 
 :default_folder_image: folder-225x145-69e06f919c0d31c57550cefa06d42755.png
 :default_service_image: service-225x145-6ef65a12ad6e8bd378b34936fdcb7ea1.png
