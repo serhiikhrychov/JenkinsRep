@@ -2,7 +2,7 @@ class LoginPage < SitePrism::Page
 
 
 
-  set_url 'http://safesurf.altexsoft.pro/'
+  set_url ''
 
   element :email_field, '[name="email"]'
   element :password_field, '[name="password"]'
